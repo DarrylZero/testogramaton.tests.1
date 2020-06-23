@@ -1,0 +1,6 @@
+You need to create a class with method
+
+public int sum(int a, int b);
+
+that calculates a sum of two numbers.
+Class must provide a no args public constructor
